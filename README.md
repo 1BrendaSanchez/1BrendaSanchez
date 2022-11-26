@@ -55,5 +55,8 @@ I am a Full Stack Developer in Washington State.
 
 
 <!--START_SECTION:waka-->
-
+<img
+  src="https://github.com/brendalissanchez/brnedalissanchez/blob/main/images/stat.svg"
+  alt="Brendalis WakaTime Activity"
+/>
 <!--END_SECTION:waka-->
