@@ -7,7 +7,7 @@
 ### :woman_technologist: About Me :
 
 <div align="left">
-I am a Full Stack Developer in Washington State. 
+I am a Full Stack Software Engineer in Washington State. 
 <ul>
 <li>🔭 I’m currently working on a new full stack project </li>
 <li>🌱 I’m currently finetuning my full stack skills (Microsoft SQL, .NET, and React) </li>
