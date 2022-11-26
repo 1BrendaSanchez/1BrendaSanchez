@@ -54,31 +54,6 @@ I am a Full Stack Developer in Washington State.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brendalissanchez&theme=tokyonight)](https://git.io/streak-stats)
 
 
+<!--START_SECTION:waka-->
 
-<!--
-
-https://media.giphy.com/media/yIomjPheQvvbiF9v7A/giphy.gif
-
-<img src="https://media.giphy.com/media/579gW9cJf3mqPTTg7G/giphy.gif" width="100">
-
-
-  <img src="https://media.giphy.com/media/mhhk6qAMwQ6N3390Hp/giphy.gif" width="300" margin-top=0 margin-bottom="0" margin-left="0" margin-right="0"/>  
-</div>
-<div id="subheader" align="center"> 
-
-**BrendalisSanchez/BrendalisSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://media.giphy.com/media/J3fNexpWc9GS9Ec1ck/giphy.gif
-
-https://media.giphy.com/media/mhhk6qAMwQ6N3390Hp/giphy.gif
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--END_SECTION:waka-->
