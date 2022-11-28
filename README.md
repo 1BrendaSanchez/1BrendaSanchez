@@ -53,10 +53,3 @@ I am a Full Stack Software Engineer in Washington State.
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brendalissanchez&theme=tokyonight)](https://git.io/streak-stats)
 
-
-<!--START_SECTION:waka-->
-<img
-  src="https://github.com/brendalissanchez/brnedalissanchez/blob/main/images/stat.svg"
-  alt="Brendalis WakaTime Activity"
-/>
-<!--END_SECTION:waka-->
