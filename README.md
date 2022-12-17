@@ -12,14 +12,14 @@
 
 <div>
 <h3 id="woman_technologistaboutme" align="center">:woman_technologist: About Me :</h3>
-<img align="right" src="https://www.licenseplates.tv/images/washevr.gif" alt="Washington State" height="150" />
+<img align="right" src="https://www.licenseplates.tv/images/washevr.gif" alt="Washington State" height="125" />
   <h4>I am a Full Stack Software Engineer in Washington State.</h4>
     
   <ul>    
     <li>👯 I’m looking to collaborate on new projects. </li>
     <li>💬 Ask me about anything. I love helping people! </li>
     <li>🔭 I’m currently working on multiple full stack projects. </li>
-    <li>⚡ Fun facts: I love ❤️‍🔥 learning 🧠💡, books 📚📖, and cooking 👩‍🍳🥗! </li>
+    <li>⚡ Fun facts: I love ❤️‍🔥 learning 🧠💡, books 📚📖, and cooking 👩‍🍳🥗!</li>
   </ul>
 </div>
   
