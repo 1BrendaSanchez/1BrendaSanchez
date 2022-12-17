@@ -51,5 +51,5 @@ I am a Full Stack Software Engineer in Washington State.
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
 </div>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brendalissanchez&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brendalissanchez&theme=transparent)](https://git.io/streak-stats)
 
