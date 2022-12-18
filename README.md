@@ -1,14 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/QlEsYqgha4WxTT5Sql/giphy.gif" width="200" margin-top=0 margin-bottom="0" margin-left="0" margin-right="0"/>
-  <img src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif" width="100" margin-top=0 margin-bottom="0" margin-left="0" margin-right="0"/>
+<div id="header" align="center">  
+  <img src="https://github.com/BrendalisSanchez/BrendalisSanchez/blob/main/assets/Brendalis%20Sanchez%20banner.png" margin-top=0 margin-bottom="0" margin-left="0" margin-right="0"/>
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/J3fNexpWc9GS9Ec1ck/giphy.gif" width="200" margin-top=0 margin-bottom="0" margin-left="0" margin-right="0"/>
-  <img src="https://media.giphy.com/media/kwVmiH6SamThUOlHrz/giphy.gif" width="200" margin-top=0 margin-bottom="0" margin-left="0" margin-right="0"/>
-</div>
-
-<hr />
 
 <div>
 <h3 id="woman_technologistaboutme" align="center">:woman_technologist: About Me :</h3>
