@@ -3,7 +3,6 @@
 </div>
 
 <div>
-<h3 id="woman_technologistaboutme" align="center">:woman_technologist: About Me :</h3>
 <img align="right" src="https://www.licenseplates.tv/images/washevr.gif" alt="Washington State" height="125" />
   <h4>I am a Full Stack Software Engineer in Washington State.</h4>
     
