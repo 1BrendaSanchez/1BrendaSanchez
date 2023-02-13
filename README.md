@@ -19,7 +19,7 @@
 <h3 align="center">🛠️ Languages & Tools :</h3>
 
 <div align="center">
-<img src="https://wakatime.com/share/@Brendalis/7cabb361-213e-4ec1-a4a9-b647ba810026.svg" alt="Wakatime Languages" height="300" />
+<img src="https://wakatime.com/share/@Brendalis/7cabb361-213e-4ec1-a4a9-b647ba810026.svg" alt="Wakatime Languages" height="500" />
 </div>
 
 <div align="center">
