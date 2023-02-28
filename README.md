@@ -1,5 +1,6 @@
 <div id="header" align="center">  
-  <img src="https://github.com/BrendalisSanchez/BrendalisSanchez/blob/main/assets/Brendalis%20Sanchez%20banner.png" margin-top=0 margin-bottom="0" margin-left="0" margin-right="0"/>
+
+  <img src="https://github.com/BrendalisSanchez/BrendalisSanchez/blob/ae52401fd535ce2a59cb1cc16af86c8694c9e3fe/assets/Brenda(lis)%20Sanchez%20Banner.png" margin-top=0 margin-bottom="0" margin-left="0" margin-right="0"/>
 </div>
 
 <div>
