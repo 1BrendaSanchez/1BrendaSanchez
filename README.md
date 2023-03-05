@@ -20,7 +20,7 @@
 <h3 align="center">🛠️ Languages & Tools :</h3>
 
 <div align="center">  
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brendalis/2aa81b9d-a43d-49d9-8c81-e0c8134495a2.png" /></a>
+  <a href="https://wakatime.com" height="100" width="100" ><img src="https://wakatime.com/share/@Brendalis/2aa81b9d-a43d-49d9-8c81-e0c8134495a2.png" /></a>
 </div>
 
 <div align="center">
