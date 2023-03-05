@@ -20,7 +20,7 @@
 <h3 align="center">🛠️ Languages & Tools :</h3>
 
 <div align="center">  
-  <a href="https://wakatime.com" height="100" width="100" ><img src="https://wakatime.com/share/@Brendalis/2aa81b9d-a43d-49d9-8c81-e0c8134495a2.png" /></a>
+  
 </div>
 
 <div align="center">
@@ -38,8 +38,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="azure" alt="azure" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="google cloud" alt="google cloud" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/> 
+  
+  </div>
+  <div align="center">
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="yarn" alt="yarn" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="atom" alt="atom" width="40" height="40"/>
@@ -62,6 +66,8 @@
 <h3 id="statistics" align="center">✨ Statistics :</h3>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=brendalissanchez&amp;theme=transparent" alt="GitHub Streak" /></a>
+  </p>
+  <p align="center">
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brendalis/8ee9391a-d95a-41a5-b698-7965687e811d.png" /></a>
   </p>
 <hr />
