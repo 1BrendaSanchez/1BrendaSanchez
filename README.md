@@ -19,8 +19,8 @@
 
 <h3 align="center">🛠️ Languages & Tools :</h3>
 
-<div align="center">
-<img src="https://wakatime.com/share/@Brendalis/7cabb361-213e-4ec1-a4a9-b647ba810026.svg" alt="Wakatime Languages" height="500" />
+<div align="center">  
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brendalis/2aa81b9d-a43d-49d9-8c81-e0c8134495a2.png" /></a>
 </div>
 
 <div align="center">
@@ -60,8 +60,10 @@
 <hr />
 
 <h3 id="statistics" align="center">✨ Statistics :</h3>
-<p align="center"><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=brendalissanchez&amp;theme=transparent" alt="GitHub Streak" /></a></p>
-
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=brendalissanchez&amp;theme=transparent" alt="GitHub Streak" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brendalis/8ee9391a-d95a-41a5-b698-7965687e811d.png" /></a>
+  </p>
 <hr />
 
 <h3 id="howtoreachme" align="center">📫 How to reach me:</h3>
