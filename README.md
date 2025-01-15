@@ -63,15 +63,20 @@
 
 <hr />
 
+<!--
 <h3 id="statistics" align="center">✨ Statistics :</h3>
+-->
+
 <!-- <p align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=brendalissanchez&amp;theme=transparent" alt="GitHub Streak" /></a>
   </p> -->
+
+  <!--
   <p align="center">
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brendalis/8ee9391a-d95a-41a5-b698-7965687e811d.png" /></a>
   </p>
 <hr />
-
+-->
 <h3 id="howtoreachme" align="center">📫 How to reach me:</h3>
 
 <div id="badges" align="center">
