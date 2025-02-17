@@ -5,7 +5,7 @@
 
 <div>
 <img align="right" src="https://www.licenseplates.tv/images/washevr.gif" alt="Washington State" height="125" />
-  <h4>I am a Full Stack Software Engineer in Washington State.</h4>
+  <h4>I am a Full Stack Software Engineer | Prompt Engineer | Machine Learning Engineer in Washington State.</h4>
     
   <ul>    
     <li>👯 I’m looking to collaborate on new projects. </li>
@@ -14,6 +14,19 @@
     <li>⚡ Fun facts: I love ❤️‍🔥 learning 🧠💡, books 📚📖, and cooking 👩‍🍳🥗!</li>
   </ul>
 </div>
+
+📢 Contact & Collaboration
+I am actively seeking opportunities in Security Software Engineering, Cloud Security Engineering, Full-Stack Development, and AI-driven applications.
+
+💼 For Recruiters & Hiring Managers:
+If you're looking for a dedicated developer with expertise in multiple languages and frameworks, feel free to reach out! I am available for:
+<ul>
+<li> Software Engineering roles (backend, full-stack, or security-focused).</li>
+<li> Freelance or contract projects in web development, automation, and security tools.</li>
+<li> Collaborations on open-source or research-based projects.</li>
+</ul>
+
+I am always excited to discuss new challenges and opportunities. Let’s build something amazing together! 🚀
   
 <hr />
 
