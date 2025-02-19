@@ -27,6 +27,7 @@ If you're looking for a dedicated developer with expertise in multiple languages
 </ul>
 
 I am always excited to discuss new challenges and opportunities. Let’s build something amazing together! 🚀
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="-brenda-sanchez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/-brenda-sanchez?trk=profile-badge">Brenda S.</a></div>
   
 <hr />
 
