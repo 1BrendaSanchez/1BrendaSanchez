@@ -5,7 +5,7 @@
 
 <div>
 <img align="right" src="https://www.licenseplates.tv/images/washevr.gif" alt="Washington State" height="125" />
-  <h4>I am a Full Stack Software Engineer | Prompt Engineer | Machine Learning Engineer in Washington State.</h4>
+  <h4>I am a Full Stack Software Engineer | AI & Prompt Engineer | Cloud Security Enthusiast in Washington State.</h4>
     
   <ul>    
     <li>👯 I’m looking to collaborate on new projects. </li>
