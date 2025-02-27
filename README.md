@@ -21,7 +21,7 @@ I am actively seeking opportunities in Security Software Engineering, Cloud Secu
 💼 For Recruiters & Hiring Managers:
 If you're looking for a dedicated developer with expertise in multiple languages and frameworks, feel free to reach out! I am available for:
 <ul>
-<li> Software Engineering roles (backend, full-stack, or security-focused).</li>
+<li> Software Engineering roles (backend, frontend, or full-stack).</li>
 <li> Freelance or contract projects in web development, automation, and security tools.</li>
 <li> Collaborations on open-source or research-based projects.</li>
 </ul>
