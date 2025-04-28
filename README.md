@@ -94,7 +94,7 @@ I am always excited to discuss new challenges and opportunities. Let’s build s
 <h3 id="howtoreachme" align="center">📫 How to reach me:</h3>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/brendalis-sanchez/">
+  <a href="https://www.linkedin.com/in/-brenda-sanchez">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
