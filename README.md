@@ -12,8 +12,8 @@
 🔥 Current Projects:
 <ul>
 <li> Bank Account Management API </li>
-<li> Expense Tracker App (Fullstack) </li>
-<li> Cloud-native deployments with Docker + AWS </li>
+<li> Expense Tracker App (Full-Stack) </li>
+<li> Transaction Monitoring System </li>
 </ul>
 
 💬 Let's connect! Always open to collaborations, new projects, and ideas focused on fintech, backend systems, and cloud solutions.
