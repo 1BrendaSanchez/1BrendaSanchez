@@ -5,28 +5,18 @@
 
 <div>
 <img align="right" src="https://www.licenseplates.tv/images/washevr.gif" alt="Washington State" height="125" />
-  <h4>I am a Full Stack Software Engineer | AI & Prompt Engineer | Cloud Security Enthusiast in Washington State.</h4>
-    
-  <ul>    
-    <li>👯 I’m looking to collaborate on new projects. </li>
-    <li>💬 Ask me about anything. I love helping people! </li>
-    <li>🔭 I’m currently working on multiple full stack projects. </li>
-    <li>⚡ Fun facts: I love ❤️‍🔥 learning 🧠💡, books 📚📖, and cooking 👩‍🍳🥗!</li>
-  </ul>
-</div>
+  <h4>Backend Engineer | Fintech & Cloud Enthusiast | Java | Python | Spring Boot | Flask | PostgreSQL | Docker | AWS</h4>
 
-📢 Contact & Collaboration
-I am actively seeking opportunities in Security Software Engineering, Cloud Security Engineering, Full-Stack Development, and AI-driven applications.
+📚 Building secure, scalable backend systems | Specializing in APIs, databases, and financial applications.
 
-💼 For Recruiters & Hiring Managers:
-If you're looking for a dedicated developer with expertise in multiple languages and frameworks, feel free to reach out! I am available for:
+🔥 Current Projects:
 <ul>
-<li> Software Engineering roles (backend, frontend, or full-stack).</li>
-<li> Freelance or contract projects in web development, automation, and security tools.</li>
-<li> Collaborations on open-source or research-based projects.</li>
+<li> Bank Account Management API </li>
+<li> Expense Tracker App (Fullstack) </li>
+<li> Cloud-native deployments with Docker + AWS </li>
 </ul>
 
-I am always excited to discuss new challenges and opportunities. Let’s build something amazing together! 🚀
+💬 Let's connect! Always open to collaborations, new projects, and ideas focused on fintech, backend systems, and cloud solutions.
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="-brenda-sanchez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/-brenda-sanchez?trk=profile-badge">Brenda S.</a></div>
   
 <hr />
@@ -47,14 +37,16 @@ I am always excited to discuss new challenges and opportunities. Let’s build s
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongo db" alt="mongo db" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongo db" alt="mongo db" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="amazonwebservices" alt="amazonwebservices" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="azure" alt="azure" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="google cloud" alt="google cloud" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="google cloud" alt="google cloud" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   
-  </div>
-  <div align="center">
+</div>
+
+<div align="center">
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/> 
@@ -68,29 +60,17 @@ I am always excited to discuss new challenges and opportunities. Let’s build s
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="dot-net" alt="dot-net" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>    
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="gimp" alt="gimp" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>  
-</code>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
+
 </div>
 
-
-
 <hr />
 
-<!--
-<h3 id="statistics" align="center">✨ Statistics :</h3>
--->
-
-<!-- <p align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=brendalissanchez&amp;theme=transparent" alt="GitHub Streak" /></a>
-  </p> -->
-
-  <!--
-  <p align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brendalis/8ee9391a-d95a-41a5-b698-7965687e811d.png" /></a>
-  </p>
-<hr />
--->
 <h3 id="howtoreachme" align="center">📫 How to reach me:</h3>
 
 <div id="badges" align="center">
